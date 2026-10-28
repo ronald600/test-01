@@ -1,0 +1,9 @@
+{
+  "name": "legacy-api-demo",
+  "version": "1.0.0",
+  "description": "Demo repository with intentionally outdated API usage",
+  "dependencies": {
+    "openai": "^0.28.0",
+    "stripe": "^12.0.0"
+  }
+}
